@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huy Hoang</h1>
-<h3 align="center">A Noob Pentest from India</h3>
+<h3 align="center">A Pentest from India</h3>
 
 - 🔭 I’m currently working on **Web security labs, CTF challenges, and personal pentesting projects**
 
