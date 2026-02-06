@@ -30,6 +30,30 @@
 
 ---
 
+### 🧬 Languages
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=red)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=red)
+![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=red)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=red)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=red)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logoColor=red)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=red)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=red)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=red)
+
+---
+
+### 🕷️ Web & Network
+
+![HTTP](https://img.shields.io/badge/HTTP-000000?style=for-the-badge&logoColor=red)
+![Active Directory](https://img.shields.io/badge/Active_Directory-000000?style=for-the-badge&logo=microsoft&logoColor=red)
+![LDAP](https://img.shields.io/badge/LDAP-000000?style=for-the-badge&logoColor=red)
+![Kerberos](https://img.shields.io/badge/Kerberos-000000?style=for-the-badge&logoColor=red)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=red)
+
+---
+
 ## 🧨 Techniques
 
 - 🔴 Web Exploitation (SQLi, XSS, SSTI, Logic Flaws)
