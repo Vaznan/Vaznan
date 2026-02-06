@@ -1,25 +1,67 @@
-<h1 align="center">Hi 👋, I'm Van An</h1>
-<h3 align="center">A Student from India</h3>
+<h1 align="center">
+  <span style="color:#ff0000;">☠️ RED TEAM OPERATOR ☠️</span>
+</h1>
 
-- 🔭 I’m currently working on **Web security labs, CTF challenges, and personal pentesting projects**
-
-- 🌱 I’m currently learning **Web Pentesting, OWASP Top 10, Burp Suite, and modern web attack vectors**
-
-- 👯 I’m looking to collaborate on **Web security research, CTF teams, and open-source security tools**
-
-- 🤝 I’m looking for help with **Advanced web exploitation techniques and real-world bug bounty workflows**
-
-- 📝 I regularly write articles on [CTF writeups and web security notes](CTF writeups and web security notes)
-
-- 💬 Ask me about **Web vulnerabilities, CTF strategies, and pentest tooling**
-
-- 📄 Know about my experiences [Resume / learning journey](Resume / learning journey)
-
-- ⚡ Fun fact **I break web apps to understand how to secure them 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <b>Offensive Security • Adversary Simulation • Pentesting</b><br>
+  <i>"If you can defend it, I can break it."</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+## 🩸 About Me
+
+- 👾 Red Team / Offensive Security
+- 🎯 Web • Network • Active Directory
+- 🧪 CTF Player (Web / PrivEsc / Crypto)
+- 🧠 Mindset: **Assume Breach**
+
+---
+
+## ⚔️ Arsenal (Tools & Platforms)
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=red)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burp-suite&logoColor=red)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=red)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=red)
+![BloodHound](https://img.shields.io/badge/BloodHound-000000?style=for-the-badge&logoColor=red)
+![Impacket](https://img.shields.io/badge/Impacket-000000?style=for-the-badge&logoColor=red)
+
+---
+
+## 🧨 Techniques
+
+- 🔴 Web Exploitation (SQLi, XSS, SSTI, Logic Flaws)
+- 🔴 Privilege Escalation (Linux / Windows)
+- 🔴 Active Directory Attacks
+- 🔴 Lateral Movement & Persistence
+- 🔴 Payload Development & Bypass
+
+---
+
+## 🧪 Labs & Training
+
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-000000?style=for-the-badge&logo=hackthebox&logoColor=green)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=red)
+![CTF](https://img.shields.io/badge/CTF-RED_TEAM-critical?style=for-the-badge)
+
+---
+
+## ☣️ Philosophy
+
+> 🔥 Defense is theory.  
+> 🔥 Offense is truth.  
+> 🔥 You don’t secure what you don’t understand.
+
+---
+
+## 🕶️ Status
+
+```text
+[+] Reconnaissance
+[+] Exploitation
+[+] Privilege Escalation
+[+] Lateral Movement
+[+] Persistence
+[+] Cleanup
