@@ -10,7 +10,7 @@
 
 - 👾 Red Team / Offensive Security
 - 🎯 Web • Network • Active Directory
-- 🧪 CTF Player (Web / PrivEsc / Crypto)
+- 🧪 CTF Player (Web / PrivEsc)
 - 🧠 Mindset: **Assume Breach**
 
 ---
