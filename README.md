@@ -1,6 +1,3 @@
-<h1 align="center">
-  <span style="color:#ff0000;">☠️ RED TEAM OPERATOR ☠️</span>
-</h1>
 
 <p align="center">
   <b>Offensive Security • Adversary Simulation • Pentesting</b><br>
@@ -80,6 +77,7 @@
 
 ---
 
+
 ## 🕶️ Status
 
 ```text
@@ -89,3 +87,10 @@
 [+] Lateral Movement
 [+] Persistence
 [+] Cleanup
+```
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&background=000000&lines=Initializing+Red+Team+Operation...;Reconnaissance+in+progress;Enumerating+attack+surface;Assume+Breach">
+</p>
+
+
